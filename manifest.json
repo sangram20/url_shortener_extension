@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name":"URL Shortner",
+    "version":"0.0.1",
+    "description":"shortens the URL",
+    "icons":{
+        "128":"icon128.png"
+    },
+    "action":{
+        "default_icon":"icon128.png",
+        "default_title":"URL",
+        "default_popup":"index.html"
+    }
+}
